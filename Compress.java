@@ -1,4 +1,4 @@
-//Leland Conn, Student Number: 250946924 is the author of this code
+//Leland Conn
 
 /*The input to the program will consist of two files: a file to compress
  * and a file containing the compression codes.
