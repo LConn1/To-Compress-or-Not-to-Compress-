@@ -1,4 +1,4 @@
-//Leland Conn, Student Number: 250946924 is the author of this code
+//Leland Conn
 
 //This class represents an entry in the list of codes, associating a character with a compression code.
 public class CodePair {
