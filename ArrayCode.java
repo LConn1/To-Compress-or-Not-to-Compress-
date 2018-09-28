@@ -1,4 +1,4 @@
-//Leland Conn, Student Number: 250946924 is the author of this code
+//Leland Conn
 
 /*This class stores a list of characters and their compression codes. Each pair (character,compression code) will be stored 
  * in an object of class CodePair. The list, then, will be stored in an array of CodePair objects.
